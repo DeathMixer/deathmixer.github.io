@@ -11,3 +11,7 @@ header {
 header blue {
     color: #00a9ff;
 }
+
+header p {
+    margin-top: 10px;
+}
